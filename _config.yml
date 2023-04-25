@@ -104,4 +104,4 @@ theme: landscape
 deploy:
 type: git
 repo: https://github.com/zhengshuaichao/zhengshuaihcao.github.io.git
-branch:
+branch: main
